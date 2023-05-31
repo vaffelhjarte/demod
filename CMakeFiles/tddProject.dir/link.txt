@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tddProject.dir/main.cpp.o -o tddProject/binaries/tddProject  -Wl,-rpath,/home/sofi/deleteMe/demod/TestTask/libs/FileManager:/home/sofi/deleteMe/demod/TestTask/libs/Demodulator TestTask/libs/FileManager/libFileManager.so TestTask/libs/Demodulator/libDemodulator.so 

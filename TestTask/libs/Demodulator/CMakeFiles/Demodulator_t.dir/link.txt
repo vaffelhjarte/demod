@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Demodulator_t.dir/test/Demodulator_t.cpp.o CMakeFiles/Demodulator_t.dir/test/main.cpp.o -o ../../../test/Demodulator_t  -Wl,-rpath,/home/sofi/deleteMe/demod/TestTask/libs/Demodulator:/home/sofi/deleteMe/demod/googletests/gtest libDemodulator.so ../../../googletests/gtest/libgtest.so 

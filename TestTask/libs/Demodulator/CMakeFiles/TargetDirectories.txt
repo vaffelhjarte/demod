@@ -1,0 +1,3 @@
+/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/CMakeFiles/Demodulator.dir
+/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/CMakeFiles/edit_cache.dir
+/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/CMakeFiles/rebuild_cache.dir

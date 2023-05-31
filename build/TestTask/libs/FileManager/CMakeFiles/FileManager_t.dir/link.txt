@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/FileManager_t.dir/test/FileManager_t.cpp.o CMakeFiles/FileManager_t.dir/test/main.cpp.o -o ../../../test/FileManager_t  -Wl,-rpath,/home/sofi/deleteMe/demod/build/tddProject/binaries/lib ../../../tddProject/binaries/lib/libFileManager.so ../../../tddProject/binaries/lib/libgtest.so ../../../tddProject/binaries/lib/libDemodulator.so 

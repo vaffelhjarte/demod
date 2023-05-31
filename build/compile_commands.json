@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/sofi/deleteMe/demod/build",
+  "command": "/usr/bin/c++  -I/home/sofi/deleteMe/demod/build -I/home/sofi/deleteMe/demod -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager/include -g -o CMakeFiles/tddProject.dir/main.cpp.o -c /home/sofi/deleteMe/demod/main.cpp",
+  "file": "/home/sofi/deleteMe/demod/main.cpp"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/googletests/gtest",
+  "command": "/usr/bin/c++ -Dgtest_EXPORTS -I/home/sofi/deleteMe/demod/build/googletests/gtest -I/home/sofi/deleteMe/demod/googletests/gtest -I/home/sofi/deleteMe/demod/googletests/gtest/gmock/include -I/home/sofi/deleteMe/demod/googletests/gtest/gmock -I/home/sofi/deleteMe/demod/googletests/gtest/gtest -I/home/sofi/deleteMe/demod/googletests/gtest/gtest/include -g -fPIC -std=gnu++11 -o CMakeFiles/gtest.dir/gmock/src/gmock-all.cc.o -c /home/sofi/deleteMe/demod/googletests/gtest/gmock/src/gmock-all.cc",
+  "file": "/home/sofi/deleteMe/demod/googletests/gtest/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/googletests/gtest",
+  "command": "/usr/bin/c++ -Dgtest_EXPORTS -I/home/sofi/deleteMe/demod/build/googletests/gtest -I/home/sofi/deleteMe/demod/googletests/gtest -I/home/sofi/deleteMe/demod/googletests/gtest/gmock/include -I/home/sofi/deleteMe/demod/googletests/gtest/gmock -I/home/sofi/deleteMe/demod/googletests/gtest/gtest -I/home/sofi/deleteMe/demod/googletests/gtest/gtest/include -g -fPIC -std=gnu++11 -o CMakeFiles/gtest.dir/gtest/src/gtest-all.cc.o -c /home/sofi/deleteMe/demod/googletests/gtest/gtest/src/gtest-all.cc",
+  "file": "/home/sofi/deleteMe/demod/googletests/gtest/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/TestTask/libs/Demodulator",
+  "command": "/usr/bin/c++ -DDemodulator_EXPORTS -I/home/sofi/deleteMe/demod/build/TestTask/libs/Demodulator -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/lib -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include/Demodulator -g -fPIC -o CMakeFiles/Demodulator.dir/source/Demodulator.cpp.o -c /home/sofi/deleteMe/demod/TestTask/libs/Demodulator/source/Demodulator.cpp",
+  "file": "/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/source/Demodulator.cpp"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/TestTask/libs/Demodulator",
+  "command": "/usr/bin/c++  -I/home/sofi/deleteMe/demod/build/TestTask/libs/Demodulator -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -I/home/sofi/deleteMe/demod/googletests/gtest/gtest/include -I/home/sofi/deleteMe/demod/googletests/gtest/gmock/include -g -o CMakeFiles/Demodulator_t.dir/test/Demodulator_t.cpp.o -c /home/sofi/deleteMe/demod/TestTask/libs/Demodulator/test/Demodulator_t.cpp",
+  "file": "/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/test/Demodulator_t.cpp"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/TestTask/libs/Demodulator",
+  "command": "/usr/bin/c++  -I/home/sofi/deleteMe/demod/build/TestTask/libs/Demodulator -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -I/home/sofi/deleteMe/demod/googletests/gtest/gtest/include -I/home/sofi/deleteMe/demod/googletests/gtest/gmock/include -g -o CMakeFiles/Demodulator_t.dir/test/main.cpp.o -c /home/sofi/deleteMe/demod/TestTask/libs/Demodulator/test/main.cpp",
+  "file": "/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/test/main.cpp"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/TestTask/libs/FileManager",
+  "command": "/usr/bin/c++ -DFileManager_EXPORTS -I/home/sofi/deleteMe/demod/build/TestTask/libs/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager/include -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager/lib -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager/include/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -g -fPIC -o CMakeFiles/FileManager.dir/source/FileManager.cpp.o -c /home/sofi/deleteMe/demod/TestTask/libs/FileManager/source/FileManager.cpp",
+  "file": "/home/sofi/deleteMe/demod/TestTask/libs/FileManager/source/FileManager.cpp"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/TestTask/libs/FileManager",
+  "command": "/usr/bin/c++  -I/home/sofi/deleteMe/demod/build/TestTask/libs/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager/include -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -I/home/sofi/deleteMe/demod/googletests/gtest/gtest/include -I/home/sofi/deleteMe/demod/googletests/gtest/gmock/include -g -o CMakeFiles/FileManager_t.dir/test/FileManager_t.cpp.o -c /home/sofi/deleteMe/demod/TestTask/libs/FileManager/test/FileManager_t.cpp",
+  "file": "/home/sofi/deleteMe/demod/TestTask/libs/FileManager/test/FileManager_t.cpp"
+},
+{
+  "directory": "/home/sofi/deleteMe/demod/build/TestTask/libs/FileManager",
+  "command": "/usr/bin/c++  -I/home/sofi/deleteMe/demod/build/TestTask/libs/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager -I/home/sofi/deleteMe/demod/TestTask/libs/FileManager/include -I/home/sofi/deleteMe/demod/TestTask/libs/Demodulator/include -I/home/sofi/deleteMe/demod/googletests/gtest/gtest/include -I/home/sofi/deleteMe/demod/googletests/gtest/gmock/include -g -o CMakeFiles/FileManager_t.dir/test/main.cpp.o -c /home/sofi/deleteMe/demod/TestTask/libs/FileManager/test/main.cpp",
+  "file": "/home/sofi/deleteMe/demod/TestTask/libs/FileManager/test/main.cpp"
+}
+]

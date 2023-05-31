@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libFileManager.so -o ../../../tddProject/binaries/lib/libFileManager.so CMakeFiles/FileManager.dir/source/FileManager.cpp.o  -Wl,-rpath,/home/sofi/deleteMe/demod/build/tddProject/binaries/lib ../../../tddProject/binaries/lib/libDemodulator.so 

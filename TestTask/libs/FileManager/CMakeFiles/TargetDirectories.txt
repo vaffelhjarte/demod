@@ -1,0 +1,3 @@
+/home/sofi/deleteMe/demod/TestTask/libs/FileManager/CMakeFiles/FileManager.dir
+/home/sofi/deleteMe/demod/TestTask/libs/FileManager/CMakeFiles/edit_cache.dir
+/home/sofi/deleteMe/demod/TestTask/libs/FileManager/CMakeFiles/rebuild_cache.dir
